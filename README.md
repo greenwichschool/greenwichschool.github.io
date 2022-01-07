@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# NOTICE BOARD
+## Welcome to Greenwich School
 
-You can use the [editor on GitHub](https://github.com/greenwichschool/greenwichschool.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Notifications from the school management will be available here. Keep watching this page for regular updates and information ciculars.
+For any queries and clarifications, kindly write to info@greenwichschool.in
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
