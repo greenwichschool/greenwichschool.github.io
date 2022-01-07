@@ -4,4 +4,4 @@ Notifications from the [Greenwich School](https://www.greenwichschool.in) will b
 For any queries and clarifications, kindly write to info@greenwichschool.in
 
 ### January, 2022
-1. [Demo Circular](https://github.com/greenwichschool/greenwichschool.github.io/blob/main/Jan22/demo.pdf), 8 January 2022
+1. [Demo Circular](https://github.com/greenwichschool/greenwichschool.github.io/raw/main/Jan22/demo.pdf), 8 January 2022
