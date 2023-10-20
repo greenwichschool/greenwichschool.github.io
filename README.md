@@ -1,5 +1,7 @@
 # Greenwich School
 
+**WARNING: ALPHA DEPLOYMENT, THIS PAGE IS UNDER DEVEOPMENT.**
+
 Welcome to Greenwich School's official page! Navigate through the sections below to learn more about us.
 
 ## Table of Contents
